@@ -1,3 +1,6 @@
+#TC = O(n^2)
+# SC = O(1)
+
 nums = [12, 33, 24, 76, 32, 11, 23, 43, 12]  
 def selection_sort(nums):  
     n = len(nums)  
